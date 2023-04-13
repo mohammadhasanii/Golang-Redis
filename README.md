@@ -44,3 +44,12 @@ func main() {
 
 ```
 
+
+## Run Application
+
+Install my-project with npm
+
+```bash
+  go run app.go
+```
+    
