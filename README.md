@@ -47,7 +47,7 @@ func main() {
 
 ## Run Application
 
-Install my-project with npm
+Install golang and redis on port 6379
 
 ```bash
   go run app.go
